@@ -1,0 +1,12 @@
+{
+  "name": "back_diario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "dev": "nodemon --exec babel-node index.js"
+  },
+  "author": "zelaya noelia",
+  "license": "ISC"
+}
